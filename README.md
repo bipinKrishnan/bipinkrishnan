@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bipinkrishnan&theme=nautilus&data=followers,repositories,stars,commits)](#)
-
 <!--
 **bipinKrishnan/bipinkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
