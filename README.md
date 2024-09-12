@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Bipin!
 
-* ✍️ You can find my blog posts on machine learning at [medium](https://medium.com/@bipin4338), recently I moved my blog to ➡️[here](https://bipinkrishnan.github.io).
-* 📚 If you wish to learn more about my writings, you can checkout my [ML recipe book](https://bipinkrishnan.github.io/ml-recipe-book).
+* ✍️ I maintain a blog ➡️[here](https://bipinkrishnan.github.io), but you can find my previous blog posts on machine learning at [medium](https://medium.com/@bipin4338).
+* 📚 Checkout my [ML recipe book](https://bipinkrishnan.github.io/ml-recipe-book) if you wish to learn more about my writings.
 * 📫 Get in touch with me through [linkedIn](https://www.linkedin.com/in/bipin-krishnan/) or [twitter](https://twitter.com/bkrish_).
 
 <!--
