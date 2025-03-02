@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Bipin!
 
-* ✍️ I maintain a blog ➡️[here](https://bipinkrishnan.github.io), but you can find my previous blog posts on machine learning at [medium](https://medium.com/@bipin4338).
+* ✍️ I maintain a blog ➡️[here](https://bipinkrishnan.github.io), you can find my previous blog posts on machine learning at [medium](https://medium.com/@bipin4338).
 * 📖 I wrote a machine learning book on training transformer models for different tasks, go read it [here](https://bipinkrishnan.github.io/ml-recipe-book).
 * 📫 Get in touch with me through [linkedIn](https://www.linkedin.com/in/bipin-krishnan/) or [twitter](https://twitter.com/bkrish_).
 
